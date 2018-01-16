@@ -1,0 +1,16 @@
+c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplicationExcel\ConsoleApplicationExcel\bin\Debug\ConsoleApplicationExcel.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplicationExcel\ConsoleApplicationExcel\bin\Debug\ConsoleApplicationExcel.exe
+c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplicationExcel\ConsoleApplicationExcel\bin\Debug\ConsoleApplicationExcel.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplicationExcel\ConsoleApplicationExcel\obj\Debug\ConsoleApplicationExcel.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplicationExcel\ConsoleApplicationExcel\obj\Debug\ConsoleApplicationExcel.csproj.ResolveComReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplicationExcel\ConsoleApplicationExcel\obj\Debug\ConsoleApplicationExcel.exe
+c:\users\administrator\documents\visual studio 2015\Projects\ConsoleApplicationExcel\ConsoleApplicationExcel\obj\Debug\ConsoleApplicationExcel.pdb
+D:\workStore\yxrj_TrainingPlatform\excelTools\ConsoleApplicationExcel\bin\Debug\ConsoleApplicationExcel.exe.config
+D:\workStore\yxrj_TrainingPlatform\excelTools\ConsoleApplicationExcel\obj\Debug\ConsoleApplicationExcel.csproj.ResolveComReference.cache
+D:\workStore\yxrj_TrainingPlatform\excelTools\ConsoleApplicationExcel\obj\Debug\ConsoleApplicationExcel.exe
+D:\workStore\yxrj_TrainingPlatform\excelTools\ConsoleApplicationExcel\obj\Debug\ConsoleApplicationExcel.pdb
+D:\workStore\yxrj_TrainingPlatform\excelTools\ConsoleApplicationExcel\bin\Debug\ConsoleApplicationExcel.exe
+D:\workStore\yxrj_TrainingPlatform\excelTools\ConsoleApplicationExcel\bin\Debug\ConsoleApplicationExcel.pdb
+D:\workStore\yxrj_TrainingPlatform\excelTools\ConsoleApplicationExcel\obj\Debug\ConsoleApplicationExcel.csprojResolveAssemblyReference.cache
+D:\workStore\yxrj_TrainingPlatform\excelTools\ConsoleApplicationExcel\obj\Debug\ConsoleApplicationExcel.csproj.GenerateResource.Cache
+D:\workStore\yxrj_TrainingPlatform\excelTools\ConsoleApplicationExcel\obj\Debug\ConsoleApplicationExcel.Resource1.resources

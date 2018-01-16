@@ -1,0 +1,6 @@
+D:\workStore\yxrj_TrainingPlatform\getFilePath\getFilePath\getFilePath\bin\Debug\getFilePath.exe.config
+D:\workStore\yxrj_TrainingPlatform\getFilePath\getFilePath\getFilePath\bin\Debug\getFilePath.exe
+D:\workStore\yxrj_TrainingPlatform\getFilePath\getFilePath\getFilePath\bin\Debug\getFilePath.pdb
+D:\workStore\yxrj_TrainingPlatform\getFilePath\getFilePath\getFilePath\obj\Debug\getFilePath.csprojResolveAssemblyReference.cache
+D:\workStore\yxrj_TrainingPlatform\getFilePath\getFilePath\getFilePath\obj\Debug\getFilePath.exe
+D:\workStore\yxrj_TrainingPlatform\getFilePath\getFilePath\getFilePath\obj\Debug\getFilePath.pdb

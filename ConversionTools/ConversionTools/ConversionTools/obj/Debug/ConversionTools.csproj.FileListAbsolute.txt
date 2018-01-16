@@ -1,0 +1,11 @@
+D:\workStore\yxrj_TrainingPlatform\ConversionTools\ConversionTools\ConversionTools\bin\Debug\ConversionTools.exe.config
+D:\workStore\yxrj_TrainingPlatform\ConversionTools\ConversionTools\ConversionTools\bin\Debug\ConversionTools.exe
+D:\workStore\yxrj_TrainingPlatform\ConversionTools\ConversionTools\ConversionTools\bin\Debug\ConversionTools.pdb
+D:\workStore\yxrj_TrainingPlatform\ConversionTools\ConversionTools\ConversionTools\obj\Debug\ConversionTools.csprojResolveAssemblyReference.cache
+D:\workStore\yxrj_TrainingPlatform\ConversionTools\ConversionTools\ConversionTools\obj\Debug\ConversionTools.Form1.resources
+D:\workStore\yxrj_TrainingPlatform\ConversionTools\ConversionTools\ConversionTools\obj\Debug\ConversionTools.Properties.Resources.resources
+D:\workStore\yxrj_TrainingPlatform\ConversionTools\ConversionTools\ConversionTools\obj\Debug\ConversionTools.csproj.GenerateResource.Cache
+D:\workStore\yxrj_TrainingPlatform\ConversionTools\ConversionTools\ConversionTools\obj\Debug\ConversionTools.exe
+D:\workStore\yxrj_TrainingPlatform\ConversionTools\ConversionTools\ConversionTools\obj\Debug\ConversionTools.pdb
+D:\workStore\yxrj_TrainingPlatform\ConversionTools\ConversionTools\ConversionTools\obj\Debug\ConversionTools.Resource1.resources
+D:\workStore\yxrj_TrainingPlatform\ConversionTools\ConversionTools\ConversionTools\obj\Debug\ConversionTools.Resource2.resources
